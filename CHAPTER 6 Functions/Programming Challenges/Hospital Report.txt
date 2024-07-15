@@ -1,0 +1,5 @@
+The number of days spent in the hospital: 10
+The daily rate: 10
+Hospital medication charges: 200
+Charges for hospital services (lab tests, etc.) 200
+Total charges: $500
