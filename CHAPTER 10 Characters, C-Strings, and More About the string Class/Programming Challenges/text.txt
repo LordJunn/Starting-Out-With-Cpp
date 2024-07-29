@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains UPPERCASE and lowercase letters.
+There are also some digits: 1234567890.
