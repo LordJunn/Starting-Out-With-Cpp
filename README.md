@@ -9,3 +9,5 @@ Anyways here's some useful resources:
 [To add indentation should there be none.](https://formatter.org/)
 
 [In case you're stuck and I have yet to solve it, or you would like to see an alternate version.](https://jesushilarioh.com/c-plus-plus-programming-challenge-solutions/)
+
+[For video solutions made by yours truly.](https://www.youtube.com/@CodewithJunn/videos)
